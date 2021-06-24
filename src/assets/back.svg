@@ -1,0 +1,11 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="360" height="640" fill="#010101"/>
+<path d="M360 1.5V640.5H0C0 640.5 0 321 180 321C360 321 360 1.5 360 1.5Z" fill="#9530A6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="360" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>
