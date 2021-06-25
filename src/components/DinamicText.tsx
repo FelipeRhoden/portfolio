@@ -10,9 +10,8 @@ export function DinamicText(){
     let newText = '';
     let upDown = true;
     const texts = [
-        'Técnico em Informática',
-        'Dev',
-        'Curioso',
+        'Dev Web',
+        'Entusiasta',
         'Empolgado',
         'Proativo'
     ]
@@ -33,7 +32,7 @@ export function DinamicText(){
             if(contLetter >= texts[countText].length){
                 upDown = false;
                 setText(newText);
-                return setTimeout(timeText, 1000)
+                return setTimeout(timeText, 2000)
             }
 
         }else{
